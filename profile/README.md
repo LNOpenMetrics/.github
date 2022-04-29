@@ -4,7 +4,7 @@
   <img src="https://github.com/OpenLNMetrics/lnmetrics.icons/blob/main/current/res/mipmap-xxxhdpi/ic_launcher.png" />
 
   <p>
-    <strong> Open LN Metrics (aka _lnmetrics_) is a framework to collect data across lightning nodes. </strong>
+    <strong> Open LN Metrics (aka lnmetrics) is a framework to collect data across lightning nodes. </strong>
   </p>
 
   <h4>
