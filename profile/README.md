@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Open LN metrics</h1>
 
-  <img src="https://github.com/dart-lightning/icons/raw/main/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+  <img src="https://github.com/OpenLNMetrics/lnmetrics.icons/blob/main/current/res/mipmap-xxxhdpi/ic_launcher.png" />
 
   <p>
     <strong> Open LN Metrics (aka _lnmetrics_) is a framework to collect data across lightning nodes. </strong>
