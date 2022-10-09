@@ -6,6 +6,8 @@
   <p>
     <strong> Open LN Metrics (aka lnmetrics) is a framework to collect and define metrics across lightning nodes. </strong>
   </p>
+  
+  <p> “If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” — Jim Barksdale </p>
 
   <h4>
     <a href="https://github.com/LNOpenMetrics">Project Homepage</a>
